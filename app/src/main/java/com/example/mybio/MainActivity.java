@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         txtHobbies = findViewById(R.id.txtHobbies);
         edtHobbies = findViewById(R.id.adtHobbies);
 
+        //Raghad Commented
+
         btnSave.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
